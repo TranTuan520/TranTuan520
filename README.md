@@ -1,1 +1,1 @@
-[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+[![](https://github.com/TranTuan520/TranTuan520/blob/main/src/images/dino.gif)](https://chromedino.com)
