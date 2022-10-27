@@ -1,0 +1,7 @@
+
+
+- [features][screen or task, task id, ...] implement UI, logic,..
+
+- [unit-test or (UT)][screen or control, ] add test case,...
+
+- [Bugs][bug task, bug id,...] fix abc...
